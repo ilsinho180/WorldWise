@@ -8,7 +8,7 @@ import {
 
 const CitiesContext = createContext();
 
-const BASE_URL = "https://fake-server-json-tau.vercel.app/";
+const BASE_URL = "https://fake-server-json-tau.vercel.app";
 
 const initialState = {
   cities: [],
